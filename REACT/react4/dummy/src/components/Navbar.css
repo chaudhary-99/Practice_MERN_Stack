@@ -1,0 +1,13 @@
+.heading-top{
+    width:100vw;
+    display: flex;
+    background-color: rgb(24, 1, 1);
+   justify-content: center;
+
+}
+
+.Navbar{
+    color: aliceblue;
+    font-size: 30px;
+    font-weight: 600;
+}

@@ -1,0 +1,16 @@
+.btn{
+    display:flex;
+    justify-content: center;   
+}
+.btn-filter{
+    margin:20px;
+    background-color: rgb(17, 1, 1);
+    padding: 8px;
+    color: rgb(255, 255, 255);
+    box-sizing: border-box;
+    border: 2px rounded black;
+}
+.btn-filter:hover{
+    background-color: rgb(71, 182, 71);
+    color: black;
+}
